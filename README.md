@@ -39,3 +39,7 @@
 ## 🌐 Conecte-se comigo
 [![Linkedin Badge](https://img.shields.io/badge/-Cristiane%20Fr%C3%B6hlich-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristiane-fr%C3%B6hlich-93298781/)](https://www.linkedin.com/in/cristiane-fr%C3%B6hlich-93298781/)
 [![Gmail Badge](https://img.shields.io/badge/-cristianegf1989@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cristianegf1989@gmail.com)](mailto:cristianegf1989@gmail.com)
+
+## 💻 Contribuições Recentes
+
+![Contribuições](https://github.com/CrisFro/CrisFro/blob/main/github-contribution-grid-snake.svg)
