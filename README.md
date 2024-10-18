@@ -10,8 +10,6 @@
 
 ## ⚡ Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CrisFro&show_icons=true&theme=radical)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CrisFro&layout=compact&theme=radical)](https://github.com/CrisFro)
 
 ## 🚀 Projetos Destacados
@@ -30,6 +28,11 @@
 ![.NET](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=.net)
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql)
 ![DynamoDB](https://img.shields.io/badge/-DynamoDB-05122A?style=flat&logo=amazon-dynamodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=336791)
+![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=microsoft-azure)
+![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-05122A?style=flat&logo=entity-framework)
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)
+![NHibernate](https://img.shields.io/badge/-NHibernate-05122A?style=flat&logo=nhibernate)
 
 ## 🌐 Conecte-se comigo
 [![Linkedin Badge](https://img.shields.io/badge/-Cristiane%20Fr%C3%B6hlich-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristiane-fr%C3%B6hlich-93298781/)](https://www.linkedin.com/in/cristiane-fr%C3%B6hlich-93298781/)
