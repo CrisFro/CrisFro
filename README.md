@@ -2,11 +2,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F709&center=true&vCenter=true&width=435&lines=HELLO+WORLD!" alt="Hello World">
 </h1>
 # Eu sou Cristiane Fröhlich 👋
-- 🌍 Sou de Porto Alegre, Brasil
-- 💻 Desenvolvedora Fullstack com 3 anos de experiência como Desenvolvedora e 9 anos na área de TI
-- 🎓 Formada em Análise e Desenvolvimento de Sistemas
-- 🔍 Em busca de novas oportunidades em desenvolvimento Fullstack
-- 🛠️ Tecnologias principais: C#, Angular, .NET, e mais
+- 🌍 **Localização:** Porto Alegre, Brasil
+- 💻 **Experiência:** 3 anos como Desenvolvedora Fullstack e 9 anos na área de TI
+- 🎓 **Formação:** Análise e Desenvolvimento de Sistemas
+- 🔍 **Objetivo:** Em busca de novas oportunidades em desenvolvimento Fullstack
+- 🛠️ **Tecnologias principais:** 
+  - C#
+  - Angular
+  - .NET
+  - JavaScript
+  - SQL
 
 ## ⚡ Estatísticas
 
