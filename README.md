@@ -1,11 +1,13 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F709&center=true&vCenter=true&width=435&lines=HELLO+WORLD!" alt="Hello World">
 </h1>
-- 👩‍💻 **Desenvolvedora Fullstack** com 3 anos de experiência e 9 anos na área de TI
-- 🏡 **Localização:** Porto Alegre, Brasil
-- 🎓 **Formação:** Análise e Desenvolvimento de Sistemas
-- 🌱 **Buscando** novas oportunidades em desenvolvimento Fullstack
-- 🛠️ **Principais Tecnologias:** C#, Angular, .NET, SQL, TypeScript, JavaScript
+<ul>
+  <li>👩‍💻 <strong>Desenvolvedora Fullstack</strong> com 3 anos de experiência e 9 anos na área de TI</li>
+  <li>🏡 <strong>Localização:</strong> Porto Alegre, Brasil</li>
+  <li>🎓 <strong>Formação:</strong> Análise e Desenvolvimento de Sistemas</li>
+  <li>🌱 <strong>Buscando</strong> novas oportunidades em desenvolvimento Fullstack</li>
+  <li>🛠️ <strong>Principais Tecnologias:</strong> C#, Angular, .NET, SQL, TypeScript, JavaScript</li>
+</ul>
 
 ## ⚡ Estatísticas
 
