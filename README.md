@@ -1,17 +1,11 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F709&center=true&vCenter=true&width=435&lines=HELLO+WORLD!" alt="Hello World">
 </h1>
-# Eu sou Cristiane Fröhlich 👋
-- 🌍 **Localização:** Porto Alegre, Brasil
-- 💻 **Experiência:** 3 anos como Desenvolvedora Fullstack e 9 anos na área de TI
+- 👩‍💻 **Desenvolvedora Fullstack** com 3 anos de experiência e 9 anos na área de TI
+- 🏡 **Localização:** Porto Alegre, Brasil
 - 🎓 **Formação:** Análise e Desenvolvimento de Sistemas
-- 🔍 **Objetivo:** Em busca de novas oportunidades em desenvolvimento Fullstack
-- 🛠️ **Tecnologias principais:** 
-  - C#
-  - Angular
-  - .NET
-  - JavaScript
-  - SQL
+- 🌱 **Buscando** novas oportunidades em desenvolvimento Fullstack
+- 🛠️ **Principais Tecnologias:** C#, Angular, .NET, SQL, TypeScript, JavaScript
 
 ## ⚡ Estatísticas
 
@@ -27,6 +21,7 @@
 ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp&logoColor=239120)
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular&logoColor=DD0031)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript&logoColor=3178C6)
 ![Swagger](https://img.shields.io/badge/-Swagger-05122A?style=flat&logo=swagger)
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3&logoColor=1572B6)
