@@ -39,10 +39,6 @@ Sou apaixonada por tecnologia e desenvolvimento de software, com um forte foco e
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)
 ![NHibernate](https://img.shields.io/badge/-NHibernate-05122A?style=flat&logo=nhibernate)
 
-## 💡 Contribuições no GitHub
-
-![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=CrisFro&theme=react)
-
 ## 🌐 Conecte-se comigo
 
 [![Linkedin Badge](https://img.shields.io/badge/-Cristiane%20Fr%C3%B6hlich-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristiane-fr%C3%B6hlich-93298781/)](https://www.linkedin.com/in/cristiane-fr%C3%B6hlich-93298781/)
